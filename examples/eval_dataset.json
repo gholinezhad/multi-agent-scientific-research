@@ -1,0 +1,27 @@
+
+[
+  {
+    "query": "immiscible viscous fingering",
+    "relevant_urls": [
+      "https://arxiv.org/abs/2608.20417v1"
+    ]
+  },
+  {
+    "query": "Hele-Shaw Cell",
+    "relevant_urls": [
+      "https://arxiv.org/abs/0706.3140v1"
+    ]
+  },
+  {
+    "query": "simulation of viscous fingering",
+    "relevant_urls": [
+      "https://arxiv.org/abs/2206.12602"
+    ]
+  },
+  {
+    "query": "Saffman-Taylor instability",
+    "relevant_urls": [
+      "https://arxiv.org/abs/1903.08407v1"
+    ]
+  }
+]

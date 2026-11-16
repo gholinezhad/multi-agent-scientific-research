@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.env
+.venv
+
+.pytest_cache/
+.ruff_cache/
+qdrant_storage/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+data/private/
+
+# Research data, credentials and local artifacts
+.env.*
+!.env.example
+papers/
+*.db
+.DS_Store
+
+# Mac, tools and model caches
+.mypy_cache/
+.coverage
+htmlcov/
+*.log
+*.pdf
+models/
+.cache/
+.DS_Store

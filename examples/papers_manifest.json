@@ -1,0 +1,18 @@
+
+[
+  {
+    "path": "papers/2101.07447v2.pdf",
+    "title": "A review of one-phase Hele-Shaw flows and a level-set method for non-standard configurations",
+    "url": "https://arxiv.org/abs/2101.07447"
+  },
+  {
+    "path": "papers/2607.25154v1.pdf",
+    "title": "Numerical simulations and universal saturation profiles for viscous fingering patterns in Hele-Shaw flow",
+    "url": "https://arxiv.org/abs/2607.25154"
+  },
+  {
+    "path": "papers/2206.12602v2.pdf",
+    "title": "Viscous fingering patterns for Hele--Shaw flow in a doubly connected geometry driven by a pressure differential or rotation",
+    "url": "https://arxiv.org/abs/2206.12602"
+  }
+]
